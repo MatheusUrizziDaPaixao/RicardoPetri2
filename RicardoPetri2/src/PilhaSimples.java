@@ -25,7 +25,7 @@ public class PilhaSimples implements PilhaOperacoes {
             System.out.println("Erro: A pilha está cheia");
         } else {
             elementos[++topo] = x;
-            System.out.println("Elemento " + x + " adicionado à piljha");
+            System.out.println("Elemento " + x + " adicionado à pilha");
         }
     }
 
